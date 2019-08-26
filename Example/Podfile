@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftLayoutBOX_Tests' do
+  pod 'SwiftLayoutBOX', :path => '../'
+  
+  
+end
