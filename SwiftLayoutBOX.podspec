@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftLayoutBOX'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of SwiftLayoutBOX.'
+  s.version          = '0.0.1'
+  s.summary          = 'Chainable layout for swift'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Chainable layout for swift. Original code by Boris Oks
                        DESC
 
-  s.homepage         = 'https://github.com/ols15015@byui.edu/SwiftLayoutBOX'
+  s.homepage         = 'https://github.com/gavinolsen/SwiftLayoutBOX'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ols15015@byui.edu' => 'ols15015@byui.edu' }
-  s.source           = { :git => 'https://github.com/ols15015@byui.edu/SwiftLayoutBOX.git', :tag => s.version.to_s }
+  s.source           = { :git => 'hhttps://github.com/gavinolsen/SwiftLayoutBOX.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

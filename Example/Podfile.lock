@@ -1,0 +1,16 @@
+PODS:
+  - SwiftLayoutBOX (0.1.0)
+
+DEPENDENCIES:
+  - SwiftLayoutBOX (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftLayoutBOX:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftLayoutBOX: 3a94d1ac89ed7d9db5767b806bce0add25422c0b
+
+PODFILE CHECKSUM: e519f296d27eceafabaceff07f0e5bb4ece9dc74
+
+COCOAPODS: 1.7.5
